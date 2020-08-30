@@ -10,7 +10,7 @@ end full_adder_tb;
 architecture behave of full_adder_tb is
 	signal A: std_logic:= '0';
 	signal B: std_logic:= '0';
-  signal Cin: std_logic: = '0';
+  	signal Cin: std_logic: = '0';
 	signal Sum: std_logic;
 	signal Carry: std_logic;
 
@@ -20,7 +20,7 @@ begin
 		port map (
 			A => A;
 			B => B;
-      Cin => Cin;
+     			Cin => Cin;
 			Sum => Sum;
 			Carry => Carry
 		);

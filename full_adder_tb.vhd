@@ -30,42 +30,42 @@ begin
 	begin
 		A <= '0';
 		B <= '0';
-    Cin <= '0';
+ 		Cin <= '0';
 		wait for 10ns;
 
 		A <= '0';
 		B <= '1';
-    Cin <= '0';
+		Cin <= '0';
 		wait for 10ns;
 
 		A <= '1';
 		B <= '0';
-    Cin <= '0';
+		Cin <= '0';
 		wait for 10ns;
 
 		A <= '1';
 		B <= '1';
-    Cin <= '0';
+    		Cin <= '0';
 		wait for 10ns;
     
 		A <= '0';
 		B <= '0';
-    Cin <= '1';
+    		Cin <= '1';
 		wait for 10ns;
 
 		A <= '0';
 		B <= '1';
-    Cin <= '1';
+    		Cin <= '1';
 		wait for 10ns;
 
 		A <= '1';
 		B <= '0';
-    Cin <= '1';
+    		Cin <= '1';
 		wait for 10ns;
 
 		A <= '1';
 		B <= '1';
-    Cin <= '1';
+    		Cin <= '1';
 		wait for 10ns;
 	end process
 end behave;

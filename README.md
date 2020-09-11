@@ -18,3 +18,7 @@ Full_subtractor:
 
 ![image](https://user-images.githubusercontent.com/59696629/92544240-cd474a80-f223-11ea-8369-e7111fb3cdf0.png)
 ![image](https://user-images.githubusercontent.com/59696629/92543974-2793db80-f223-11ea-82ac-34fa9ea9a7c6.png)
+
+Adder 4 bit:
+
+![image](https://user-images.githubusercontent.com/59696629/92837243-bafc1680-f3b3-11ea-82d8-7d40f6a52ce4.png)
